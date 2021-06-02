@@ -3,7 +3,7 @@ microverse-review-project
 
 ![html-css-nedir-html-css-egitimi-nedir](https://user-images.githubusercontent.com/51737508/120343644-8fcea400-c301-11eb-903c-aa7cdd03fa20.jpg)
 
-In this project, I used only HTML and CSS
+In this project, I used only HTML and CSS. After submit my project I reviewed my own project.
 
 ## Built With
 HTML 
